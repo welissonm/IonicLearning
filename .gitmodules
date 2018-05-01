@@ -1,0 +1,3 @@
+[submodule "mapTest"]
+	path = mapTest
+	url = https://github.com/welissonm/Ionic-mapTest.git
